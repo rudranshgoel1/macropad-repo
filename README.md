@@ -18,6 +18,8 @@ It is an 8 key macropad, which helps users control small tasks which are repetit
 
 ![3D render 2](image3.png)
 
+![PCB Routing](image4.png)
+
 ## Credits
 
 Made by Rudransh Goel (stolen_username on slack)
