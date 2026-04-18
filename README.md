@@ -8,6 +8,7 @@ It is an 8 key macropad, which helps users control small tasks which are repetit
 - `macropad-pcb.kicad_sch` - schematic
 - `macropad-pcb.kicad_pcb` - board layout
 - `image1.png`, `image2.png`, `image3.png` - board renders
+- `image4.png` - pcb routing
 
 ## Preview
 
